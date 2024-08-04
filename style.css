@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+#login-btn:hover{
+   color: #0082df;
+}
+
+#bdy-btns1{
+    color: white;
+    background-color: #0082df;
+}
+
+#bdy-btns2{
+    color: black;
+    font-weight: bold;
+    background-color: whitesmoke;
+    border: solid 0.1px rgb(224, 221, 221);
+    border-radius: 10px;
+}
+
+#head-start-btn{
+    border: solid 1px black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0082df;
+}
+
+#nav-list a:hover{
+color: #0082df;
+}
